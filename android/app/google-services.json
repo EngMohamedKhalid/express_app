@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34258697618",
+    "project_id": "messageme-app-96c49",
+    "storage_bucket": "messageme-app-96c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34258697618:android:6a40e2935491a6c12a154b",
+        "android_client_info": {
+          "package_name": "com.express_app.express_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34258697618-9qpvchunp0dkbapoko5bvodfv1qr03ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswe-vxdm3mFw8DNviNeAQkbnS3Ow8myc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34258697618-9qpvchunp0dkbapoko5bvodfv1qr03ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
